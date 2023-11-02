@@ -48,8 +48,16 @@ html {
     line-height: 40px;
   }
   
-  .redes-sociais a:hover {
-    color: var(--cor-primaria);
+  .redes-sociais .github:hover {
+    color: var(--cor-branca);
+  }
+
+  .redes-sociais .linkedin:hover {
+    color: #0A66C2;
+  }
+
+  .redes-sociais .wpp:hover {
+    color: #25D366;
   }
   
   .outer-shadow {
